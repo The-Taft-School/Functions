@@ -4,7 +4,7 @@
 
 1. Write a program to create a function that takes two arguments, name and age, and print their value.
 2. Write a program to create function func1() to accept a variable length of arguments and print their value. <br>
-
+'
 Function Call <br>
 ###### call function with 3 arguments
 func1(20, 40, 60)
@@ -22,6 +22,7 @@ Printing values
 Printing values
 80
 100
+'
 
 3. Write a program to create a function show_employee() using the following conditions.
 
