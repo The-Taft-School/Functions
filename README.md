@@ -6,10 +6,10 @@
 2. Write a program to create function func1() to accept a variable length of arguments and print their value. <br>
 
 Function Call <br>
-# call function with 3 arguments
+###### call function with 3 arguments
 func1(20, 40, 60)
 
-# call function with 2 arguments
+###### call function with 2 arguments
 func1(80, 100)
 
 Expected Output:
